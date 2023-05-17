@@ -1,0 +1,5 @@
+﻿  JU.class_String.cpp
+  myString.cpp
+  Создание кода...
+F:\c#\My projects\С++\JU.class_String\JU.class_String\myString.cpp(150): warning C4715: myStol: значение возвращается не при всех путях выполнения
+  JU.class_String.vcxproj -> F:\c#\My projects\С++\JU.class_String\x64\Debug\JU.class_String.exe
